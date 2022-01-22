@@ -13,21 +13,23 @@
   
 
   .firstnv{
+    background-color: yllowgreen;
+
   text-align: left;
-  background-color: yellowgreen;
   height: 900px;
   }
 
   
   .splash {
     position: absolute;
-right: 200px;
+right: 300px;
 top: 150px;
   }
 
-  h2{
+  {
  padding-left: 10%;
  padding-top: 70px;
+ margin: 50%;
   }
 
 /*navigation*/
@@ -35,28 +37,33 @@ top: 150px;
 /*display: inline; - By default, <li> elements are block elements. Here, we remove the line breaks before and after each list item, to display them on one line*/
 
   ul {
+    background-color:rd;
+
+    
   list-style-type: none;
   margin: 50px;
   padding: 20px;
   padding-right: 200px;
-  background-color:rd;
+  
   float: right;
 }
 
 
 a{
   display: inline;
-  padding: 50px;
+  padding: 40px;
 color: black;
 text-decoration: none;}
 
   .two{
-    background-color: aquamarine;
+    background-color:lue;
+
+
   
     float:right;
     text-align: center;
     padding-top: 14px;
-    padding-right: 30px;
+    padding-right:30 px;
     padding-left: 30px;
     font-size:24px;
   }
@@ -65,8 +72,48 @@ text-decoration: none;}
 
    button{
      background-color: orange;
-     padding: 15px;
-     border-radius: 15px;
+     padding: 20px;
+     margin: 50px;
+     border-radius: 100px;
      border: none;
      color: white;
+   }
+
+   .firsttext{
+    
+    padding-left: 7%;
+    padding-top: 300px;
+    
+   }
+
+   /*double decker*/
+   .DD{
+     background-color: #E1EBE6;
+
+     height:800px;
+     ;
+   }
+
+   .double-check1{
+    position: absolute;
+    right: 360px;
+    top: 1070px;
+   }
+
+   /*Mobile Phone Apps*/
+   .topspecials{
+    position: absolute;
+    right: 580px;
+    top: 
+   }
+
+   .companyburger{
+    position: absolute;
+    right: 280px;
+    top: px;
+   }
+
+   .mobileapp{
+     background:#F6B400;
+     height: 700px;
    }
