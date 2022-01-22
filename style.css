@@ -1,3 +1,12 @@
+
+*{
+  box-sizing: content-box;
+  padding: 0;
+  margin:0;
+}
+
+
+
 .one{
   height: 80px;
   }
@@ -5,12 +14,24 @@
   .firstnv{
   text-align: left;
   background-color: yellowgreen;
-  height: 500px;
+  height: 700px;
   }
   
   .two{
   float: right;
   background-color: aquamarine;
+  height: 80px;
+  width: 50%;
+  padding: 10px 10px 10px 10px;
   }
   
-  
+  .splash {
+    position: absolute;
+right: 0%;
+top: 0;
+  }
+
+  h2{
+ padding-left: 10%;
+ padding-top: 70px;
+  }
