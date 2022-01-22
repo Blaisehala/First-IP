@@ -1,0 +1,14 @@
+.one{
+  : yellow;
+  height: 80px;
+}
+
+.firstnv{
+  text-align: left;
+  background-color: yellowgreen;
+  height: 100px;
+}
+
+.two{
+float: right;
+}
