@@ -11,27 +11,53 @@
   height: 80px;
   }
   
+
   .firstnv{
   text-align: left;
   background-color: yellowgreen;
-  height: 700px;
+  height: 900px;
   }
-  
-  .two{
-  float: right;
-  background-color: aquamarine;
-  height: 80px;
-  width: 50%;
-  padding: 10px 10px 10px 10px;
-  }
+
   
   .splash {
     position: absolute;
-right: 0%;
-top: 0;
+right: 200px;
+top: 150px;
   }
 
   h2{
  padding-left: 10%;
  padding-top: 70px;
   }
+
+/*navigation*/
+  /* remove bullet, padding and margin*/
+/*display: inline; - By default, <li> elements are block elements. Here, we remove the line breaks before and after each list item, to display them on one line*/
+
+  ul {
+  list-style-type: none;
+  margin: 50px;
+  padding: 20px;
+  padding-right: 400px;
+  background-color:rd;
+  float: right;
+}
+
+
+a{
+  display: inline;
+  padding: 30px;
+color: black;
+text-decoration: none;}
+
+  .two{
+    background-color: aquamarine;
+  
+    float:right;
+    text-align: center;
+    padding-top: 14px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size:24px;
+  }
+  
