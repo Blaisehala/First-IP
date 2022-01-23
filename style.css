@@ -405,20 +405,61 @@ top:3000px}
 .sitemap {
   background-color: #E1EBE6;
   
-  height: 300px;
-  
+  height: 300px
+
   }
+
   
-  .ultwo {
-  text-align: center;
-  padding-right: 1000px;
   
-  }
-  
-  .footer {
-  background-color: olivedrab;
-  
-  height: 100px;
-  padding: 20px;
-  }
+ .burgericon{
+   vertical-align: middle;
+
+ }
+
+ .con{
+   font-size: 30px;
+   font-weight:1000;
    
+ }
+
+ .subscribe{
+   float: left;
+   background-color: beige;
+   position: absolute;
+   right:7%;
+   width: 40%;
+   text-align: center;
+   
+ }
+
+ .calc{
+background-color: blanchedalmond;
+width: 15%;
+position: absolute;
+left: 30%;
+
+ }
+
+ .sb{
+   padding: 20px;
+   color: white;
+   background-color: orange;
+   border: transparent;
+ }
+
+ input{
+  border: 1px solid #ccc
+ }
+ 
+  
+   
+
+/*Footer*/
+.hala{
+  height: 30px;
+  padding: 10px;
+}
+
+.blaise{
+  float:right
+}
