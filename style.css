@@ -229,109 +229,63 @@ hr {
 
 }
 
+/*Double Decker*/
+.DD{
+  background-color: red;
+  
+  height: 700px; }
+  
+  .double-check1{position:absolute;
+  right: 390px;
+top:3100px}
 
+  /*Mobile App*/
 
+.mobileapp{
+  background-color:#F6B400;
+  height: 700px;}
 
+  .topspecials{
+    position:absolute;
+    right: 600px;
+    border-radius: 50px;
+  }
 
+  .companyburger{
+    position:absolute;
+    right: 300px;
+    border-radius:50px ;
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*double decker*/
-.DD {
-  background-color: #E1EBE6;
-
-  height: 1000px;
-  ;
-}
-
-
-
-
-
-
-
-/*Mobile Phone Apps*/
-.topspecials {
-  position: absolute;
-  right: 580px;
-
-}
-
-.companyburger {
-  position: absolute;
-  right: 280px;
-  top: px;
-}
-
-.mobileapp {
-  background: #F6B400;
-  height: 700px;
-}
-
-.appb {
-  background-color: black;
-  border-radius: 0;
-
-  width: 190px;
-  font-size: 20px;
-  color: white;
-}
-
-#spanned {
-  font-size: 10px;
-}
-
-
-/* SITE MAP*/
+  .appb{
+    background-color: black;
+    border-radius: 0;
+    
+    width: 190px;
+    font-size: 20px;
+    color: white;
+    }
+    
+    #spanned {
+    font-size: 10px; }   
+    /* SITE MAP*/
 .sitemap {
   background-color: #E1EBE6;
-
-
+  
   height: 300px;
-
-}
-
-.ultwo {
+  
+  }
+  
+  .ultwo {
   text-align: center;
   padding-right: 1000px;
-
-}
-
-.footer {
+  
+  }
+  
+  .footer {
   background-color: olivedrab;
-
+  
   height: 100px;
   padding: 20px;
-}
+  }
+   
