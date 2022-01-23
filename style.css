@@ -87,27 +87,39 @@ border-bottom-right-radius: 0px;
   
 border-bottom-left-radius: 42px;  
 border-radius-bottomleft: 42px;  
-bottom-left-radius: 42px; 
+--bottom-left-radius: 42px; 
 }
 
 .firsttext {
 
-  padding-left: 7%;
-  padding-top: 300px;
+  padding-left: 10%;
+  padding-top: 200px;
 
 }
 
+.firsttext h2{
+  font-size: 50px;
+  
+}
+
+.firsttext p{
+  font-size: 23px;
+  font-weight:500;
+  color: rgb(70, 69, 67);
+}
 
 /*SECTION TWO*/
 .sectiontwo {
-  background-color: #E1EBE6;
+  background-color: #f6fffa;
 
   height: 600px;
   padding-top: 200px;
 
 }
 
-
+.delivery{
+  color: rgb(70, 17, 70);
+}
 
 .card1 {
   height: 200px;
@@ -315,13 +327,33 @@ border: outset;}
 
 /*Double Decker*/
 .DD{
-  background-color:#E1EBE6;
+  background-color:#f6fffa;
   
   height: 700px; }
   
-  .double-check1{position:absolute;
+  .double-check1 {position:absolute;
   right: 390px;
-top:3100px}
+top:3000px}
+
+.ddtext{
+  position: absolute;
+  top:3100px;
+  left: 10%;
+}
+
+.ddtext h1{
+  font-size: 70px;
+
+}
+.ddtext p {
+  font-size: 30px;
+  font-weight:500;
+  color: rgb(70, 69, 67);
+  
+}
+
+
+
 
   /*Mobile App*/
 
@@ -329,21 +361,22 @@ top:3100px}
   background-color:#F6B400;
   height: 700px;}
 
-  .topspecials{
+  .aboss{
+    background-color: aqua;
     position:absolute;
-    right: 600px;
-    border-radius: 50px;
+    top: 3800px;
+  left: 10%;
+  height: 340px;
+  padding:20px;
   }
 
-  .companyburger{
-    position:absolute;
-    right: 300px;
-    border-radius:50px ;
-  }
 
+  
+
+  
   .appb{
     background-color: black;
-    border-radius: 0;
+    border-radius: 5px;
     
     width: 190px;
     font-size: 20px;
@@ -352,6 +385,8 @@ top:3100px}
     
     #spanned {
     font-size: 10px; }   
+
+
     /* SITE MAP*/
 .sitemap {
   background-color: #E1EBE6;
