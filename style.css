@@ -122,14 +122,14 @@ border-radius-bottomleft: 42px;
 }
 
 .card1 {
-  height: 200px;
+  height: 250px;
   width: 350px;
   border-radius: 10px;
   border-style: outset;
   position: absolute;
   left: 250px;
   top: px;
-  padding-top: 50px;
+  padding-top: 0px;
   text-align: center;
   float: inline-end;
   border: solid 1px gray;
@@ -143,14 +143,13 @@ border-radius-bottomleft: 42px;
 
 
 .card2 {
-  height: 300px;
+  height: 350px;
   width: 350px;
   border-radius: 10px;
   border-style: outset;
   position: absolute;
   left: 40%;
   top: 1030px;
-  padding-top: 50px;
   text-align: center;
   border: solid 1px grey;
 }
@@ -160,14 +159,13 @@ border-radius-bottomleft: 42px;
 
 
 .card3 {
-  height: 200px;
+  height: 259px;
   width: 350px;
   border-radius: 10px;
   border-style: outset;
   position: absolute;
   right: 250px;
-  top: px;
-  padding-top: 50px;
+ 
   text-align: center;
   border: solid 1px gray;
 
@@ -402,6 +400,8 @@ top:3000px}
     font-size: 10px; }   
 
 
+
+
     /* SITE MAP*/
 .sitemap {
   background-color: #E1EBE6;
@@ -463,4 +463,9 @@ left: 30%;
 
 .blaise{
   float:right
+
+}
+
+.favicon{
+  text-align: center;
 }
