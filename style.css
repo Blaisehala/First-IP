@@ -7,7 +7,7 @@
 
 
 .one {
-  height: 80px;
+  background: linear-gradient(110deg, #ffffff 57%, #ffed4b 40%);
 }
 
 
@@ -219,8 +219,9 @@ box-shadow:5px 5px 15px 15px whitesmoke;
 }
 .cart{
   background-color: #E1EBE6;
-  height: 45px;
+  height: 35px; 
   border-radius: 10px;
+
 }
 .cardfooter .cart{
   float: right;
