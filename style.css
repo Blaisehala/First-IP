@@ -405,6 +405,7 @@ top:3000px}
     /* SITE MAP*/
 .sitemap {
   background-color: #E1EBE6;
+  list-style-type: none;
   
   height: 300px
 
@@ -425,7 +426,7 @@ top:3000px}
 
  .subscribe{
    float: left;
-   background-color: beige;
+  
    position: absolute;
    right:7%;
    width: 40%;
@@ -434,10 +435,11 @@ top:3000px}
  }
 
  .calc{
-background-color: blanchedalmond;
+
 width: 15%;
 position: absolute;
 left: 30%;
+
 
  }
 
@@ -449,7 +451,21 @@ left: 30%;
  }
 
  input{
-  border: 1px solid #ccc
+   height: 30px;
+  border: solid 1px gray;
+
+
+  position:relative;
+  display: inline-block;
+  box-sizing: border-box;
+ }
+
+ input  [type="submit"] {
+   background-color: orange;
+   border-radius: 0;
+ }
+ 
+
  }
  
   
