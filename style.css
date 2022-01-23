@@ -98,12 +98,12 @@ border-radius-bottomleft: 42px;
 }
 
 .firsttext h2{
-  font-size: 50px;
+  font-size: 70px;
   
 }
 
 .firsttext p{
-  font-size: 23px;
+  font-size: 30px;
   font-weight:500;
   color: rgb(70, 69, 67);
 }
@@ -361,8 +361,24 @@ top:3000px}
   background-color:#F6B400;
   height: 700px;}
 
+
+  .topspecials{
+    position: absolute;
+    top: 3700px;
+    right:27%;
+    border-radius: 20px;
+
+  }
+
+  .companyburger{
+    position: absolute;
+    top: 3700px;
+    right: 10%;
+    border-radius: 30px;
+  }
+
   .aboss{
-    background-color: aqua;
+    
     position:absolute;
     top: 3800px;
   left: 10%;
@@ -370,8 +386,6 @@ top:3000px}
   padding:20px;
   }
 
-
-  
 
   
   .appb{
