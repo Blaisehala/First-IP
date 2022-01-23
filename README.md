@@ -1,5 +1,5 @@
 # Independent Project
-#### This is my First independent We Project, 23.01.2022
+#### This is my First independent Web Project, 23.01.2022
 #### By **Blaise Hala Odhiambo**
 ## Description
 This is a simple one page website  or landing page that helps and/or welcomes visitors or consumers to a call of action in terms of purchasing.
