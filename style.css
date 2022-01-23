@@ -154,7 +154,7 @@ hr {
 }
 
 .pricecard1 {
-  background-color: bisque;
+  background-color:#eef0ef;
   font-size: 20px;
   width: 400px;
   height: 400px;
@@ -162,14 +162,17 @@ hr {
   text-align: center;
   position: absolute;
   left: 200px;
-
-
-
+border-radius: 25px;
+box-shadow: #E1EBE6;
+border-style: outset;
 }
 
+.pricecard1:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);}
 
 .pricecard2 {
-  background-color: bisque;
+  background-color: #eef0ef;
   font-size: 20px;
   width: 400px;
   height: 400px;
@@ -177,22 +180,33 @@ hr {
   text-align: center;
   position: absolute;
   right: 200px;
+  border-radius: 25px;
+  border-style: outset;
 
 
 }
 
+.pricecard2:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);}
+
 .pricecard3 {
-  background-color: bisque;
+  background-color:#eef0ef;
   font-size: 20px;
   width: 400px;
   height: 400px;
   margin: auto;
   text-align: center;
+  border-radius: 25px;
+  border-style: outset;}
 
-}
+  .pricecard3:hover{
+    background-color: whitesmoke;
+    transform: scale(1.05);}
+  
 
 .pricecard4 {
-  background-color: bisque;
+  background-color:#eef0ef;
   font-size: 20px;
   width: 400px;
   height: 400px;
@@ -201,11 +215,17 @@ hr {
   position: absolute;
   left: 200px;
   top: 2290px;
+  border-radius: 25px;
+  border-style: outset;}
 
-}
+  .pricecard4:hover{
+    background-color: whitesmoke;
+    transform: scale(1.05);}
+  
+
 
 .pricecard5{
-  background-color: bisque;
+  background-color:#eef0ef;
   font-size: 20px;
   width: 400px;
   height: 400px;
@@ -214,10 +234,16 @@ hr {
   position: absolute;
   left: 720px;
   top: 2290px;
-}
+  border-radius: 25px;
+  border-style: outset;}
+
+  .pricecard5:hover{
+    background-color: whitesmoke;
+    transform: scale(1.05);}
+  
 
 .pricecard6 {
-  background-color: bisque;
+  background-color:#eef0ef;
   font-size: 20px;
   width: 400px;
   height: 400px;
@@ -226,12 +252,18 @@ hr {
   position: absolute;
   right: 200px;
   top: 2290px;
-
+  border-radius: 25px;
+  border-style: outset;
 }
+.pricecard6:hover{
+  background-color: whitesmoke;
+  transform: scale(1.05);}
+
+
 
 /*Double Decker*/
 .DD{
-  background-color: red;
+  background-color:#E1EBE6;
   
   height: 700px; }
   
