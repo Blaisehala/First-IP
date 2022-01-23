@@ -94,7 +94,7 @@ a {
 
 
 .card1 {
-  height: 300px;
+  height: 200px;
   width: 350px;
   border-radius: 10px;
   border-style: outset;
@@ -104,37 +104,49 @@ a {
   padding-top: 50px;
   text-align: center;
   float: inline-end;
+  border: solid 1px gray;
 
 }
+
+.card1:hover{
+  transform: scale(1.05);
+}
+
 
 
 .card2 {
-  height: 500px;
-  width: 350px;
-  border-radius: 10px;
-  border-style: outset;
-  position: absolute;
-  left: 40%;
-  top: 970px;
-  padding-top: 50px;
-  text-align: center;
-
-}
-
-
-.card3 {
   height: 300px;
   width: 350px;
   border-radius: 10px;
   border-style: outset;
   position: absolute;
-  right: 300px;
+  left: 40%;
+  top: 1030px;
+  padding-top: 50px;
+  text-align: center;
+  border: solid 1px grey;
+}
+.card2:hover{
+  transform: scale(1.09);
+}
+
+
+.card3 {
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
+  border-style: outset;
+  position: absolute;
+  right: 250px;
   top: px;
   padding-top: 50px;
   text-align: center;
+  border: solid 1px gray;
 
 }
-
+.card3:hover{
+  transform: scale(1.05);
+}
 
 /*Pricing cards*/
 .section3 {
