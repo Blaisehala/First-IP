@@ -12,3 +12,21 @@ blaisehala@gmail.com or blaise.odhiambo@student.moringaschool.com
 ### License
 
 Copyright (c)   2022   Blaise Hala Odhiambo 
+
+
+## Markdown Table
+
+---
+
+|Name|county|Gender|
+|:---|:-----|:-----|
+|Blaise|Nairobi| Male|
+|Hala| Kisumu| female|
+Emmanuel|Bungoma| Male|
+
+
+
+## Markdown image
+___
+
+![IMAGE](./Desktop/Screenshot from 2022-01-24 08-28-07.png)
