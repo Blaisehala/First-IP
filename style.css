@@ -4,7 +4,7 @@
   margin: 0;
 }
 
-
+font-family: 'Lobster', cursive;
 
 .one {
   background: linear-gradient(110deg, #ffffff 57%, #ffed4b 40%);
@@ -72,22 +72,7 @@ a {
   border-radius: 100px;
   border: none;
   color: white;
-
-border-top-left-radius: 42px;  
-border-radius-topleft: 42px;  
-top-left-radius: 42px;  
-  
--border-top-right-radius: 42px;  
-border-radius-topright: 42px;  
-border-top-right-radius: 42px;  
-  
-border-bottom-right-radius: 0px;  
-border-radius-bottomright: 0px;  
-border-bottom-right-radius: 0px;  
-  
-border-bottom-left-radius: 42px;  
-border-radius-bottomleft: 42px;  
---bottom-left-radius: 42px; 
+border-radius: 10px 10px 0 10px;
 }
 
 .firsttext {
